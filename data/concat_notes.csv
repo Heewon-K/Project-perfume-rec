@@ -700,18 +700,18 @@ pk,model,name,kor_name
 699,perfumes.note,pear blossom,피어 블라섬
 700,perfumes.note,pear ice cream,피어 아이스크림
 701,perfumes.note,pear leaf,피어 리프
-702,perfumes.note,pear leaf,피어 트리
+702,perfumes.note,pear tree,피어 트리
 703,perfumes.note,peat,피트
 704,perfumes.note,pebbles,페블스
 705,perfumes.note,pecan,페이칸
 706,perfumes.note,pelargonium,펠라르고늄
 707,perfumes.note,peony,피어니
 708,perfumes.note,pepper,페퍼
-709,perfumes.note,pepperleaf,페퍼 트리
+709,perfumes.note,peppertree,페퍼 트리
 710,perfumes.note,pepperwood or hercules club,페퍼우드
 711,perfumes.note,periwinkle,페리윙클
 712,perfumes.note,persimmon,퍼시몬
-713,perfumes.note,peru leaf,페루 발삼
+713,perfumes.note,peru balsam,페루 발삼
 714,perfumes.note,petalia,페탈리아
 715,perfumes.note,petitgrain,쁘띠 그레인
 716,perfumes.note,petunia,피튜니아
@@ -720,7 +720,7 @@ pk,model,name,kor_name
 719,perfumes.note,pimento leaf,피멘토 리프
 720,perfumes.note,pimento seeds,피멘토 시드
 721,perfumes.note,pina colada,피냐 콜라다
-722,perfumes.note,pine leaf,파인 트리
+722,perfumes.note,pine tree,파인 트리
 723,perfumes.note,pineapple,파인애플
 724,perfumes.note,pineapple blossom,파인애플 블라섬
 725,perfumes.note,pink pepper,핑크 페퍼
@@ -732,7 +732,7 @@ pk,model,name,kor_name
 731,perfumes.note,plastic,플라스틱
 732,perfumes.note,plum,플럼
 733,perfumes.note,plum blossom,플럼 블라섬
-734,perfumes.note,plum leaf,플럼 트리
+734,perfumes.note,plum tree,플럼 트리
 735,perfumes.note,poinsettia,포인세티아
 736,perfumes.note,pollen,팔런
 737,perfumes.note,polygonum,폴리그넘
@@ -902,7 +902,7 @@ pk,model,name,kor_name
 901,perfumes.note,tobacco blossom,토바코 블라섬
 902,perfumes.note,toffee,토피
 903,perfumes.note,tokaji wine,토카지 와인
-904,perfumes.note,tolu leaf,토루 리프
+904,perfumes.note,tolu balsam,토루 리프
 905,perfumes.note,tomato,토마토
 906,perfumes.note,tomato leaf,토마토 리프
 907,perfumes.note,tonic water,토닉 워터
